@@ -1,0 +1,27 @@
+hr{
+    border-style: none;
+}
+form,.mad{
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+}
+h2{
+    font-size: 30px;
+}
+a{
+    text-decoration:none;
+    font-size: 20px;
+    color: #537FE7;
+}
+body{
+    background-color: #E9F8F9;
+}
+h1,h2,h3{
+    color: #537FE7;
+}
+li,td,label{
+    font-size: 20px;
+    color: #537FE7;
+}
